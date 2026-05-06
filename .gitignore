@@ -1,0 +1,8 @@
+.bundle/
+.bundle-home/
+.jekyll-cache/
+.jekyll-metadata
+.sass-cache/
+_site/
+vendor/
+jekyll-server.*
